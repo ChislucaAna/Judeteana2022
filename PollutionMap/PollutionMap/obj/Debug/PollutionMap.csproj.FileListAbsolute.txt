@@ -1,0 +1,12 @@
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\bin\Debug\Poluare.mdf
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\bin\Debug\Poluare_log.ldf
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe.config
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Form1.resources
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
