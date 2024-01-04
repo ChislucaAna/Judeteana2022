@@ -4,9 +4,12 @@ C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\bin\Debug\PollutionMap
 C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\bin\Debug\PollutionMap.exe
 C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\bin\Debug\PollutionMap.pdb
 C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.AssemblyReference.cache
-C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Form1.resources
 C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Properties.Resources.resources
 C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.GenerateResource.cache
 C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.csproj.CoreCompileInputs.cache
 C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.exe
 C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.pdb
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Inregistrare.resources
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Autentificare.resources
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.Vizualizare.resources
+C:\Users\anach\OneDrive\Desktop\PollutionMap\PollutionMap\obj\Debug\PollutionMap.AdaugaMasurare.resources
